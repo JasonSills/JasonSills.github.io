@@ -231,27 +231,4 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
-<style>
-  
-.gs-section-01 h3 {
-color: red }
-
-.gs-section-01 p {
-font-size: 30px;
-}
-
-.gs-section-02 h3 {
-color: green }
-
-.gs-section-02 p {
-font-size: 40px;
-}
-
-.gs-section-03 h3 {
-color: blue }
-
-.gs-section-03 p {
-font-size: 50px;
-}
-
-</style>
+<style> .gs-section-01 h3{color: red} .gs-section-01 p{font-size: 30px;} .gs-section-02-03 h2{ color: blue; font-size: 25px } .gs-section-02-03 p{ color: orange; font-size: 50px } </style>

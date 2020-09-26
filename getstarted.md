@@ -61,7 +61,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 <div class="gs-section-01" markdown="1">
 
-<h1>### 1. Fork the Beautiful Jekyll repository </h1>
+<h3>### 1. Fork the Beautiful Jekyll repository </h3>
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
 by clicking the Fork button on the top right corner in GitHub.
@@ -236,9 +236,18 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: red;
+     font-size: 60px;
+     }
 
 .gs-section-01 p {
+     font-size: 30px;
+}
+.gs-section-02 h4 { 
+     color: red;
+     font-size: 100px;}
+
+.gs-section-02 p {
      font-size: 30px;
 }
 

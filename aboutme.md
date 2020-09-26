@@ -14,8 +14,6 @@ My name is Jason Sills. I have a deep experience in the private and public secto
 - Launched two websites from start-up
 - Currently lead a team of data scientists and analytics improving operations and outcomes for the University of Utah
 
-What else do you need?
-
 ## Education
 
 Master of Public Administration, Arizona State University

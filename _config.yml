@@ -28,7 +28,7 @@ navbar-links:
 avatar: "/assets/img/cilitica-symbol-02 (1).png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -98,12 +98,12 @@ feed_show_tags: true
 navbar-col: "#304A78"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
-page-col: "##2493A2"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+page-col: "#2493A2"
+link-col: "#FFFFFF"
+hover-col: "#FFFFFF"
 footer-col: "#304A78"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#404040"
+footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

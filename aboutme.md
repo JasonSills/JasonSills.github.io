@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Work experience and education
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jason Sills. I have a deep experience in the private and public sector leveraging data and analytics for operational improvements.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 8 years in ecommerce integrating BI into the end-to-end supply chain
+- Rebuilt global operations for a growing ecommerce company shipping 300k SKUs 
+- Integrated large-scale automation 
+- Created environmentally-friendly shipping options
+- Launched two websites from start-up
+- Currently lead a team of data scientists and analytics improving operations and outcomes for the University of Utah
 
 What else do you need?
 
-### My story
+### My education
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Master of Public Administration, Arizona State University
+MS Program Evaluation and Data Analytics, Arizona State University
+
+Lean Six Sigma
+Certificate in Social Impact Metrics

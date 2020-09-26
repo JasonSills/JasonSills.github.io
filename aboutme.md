@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About me
+title: Resume
 subtitle: Work experience and education
 ---
 
+## Work experience
 My name is Jason Sills. I have a deep experience in the private and public sector leveraging data and analytics for operational improvements.
 
 - 8 years in ecommerce integrating BI into the end-to-end supply chain
@@ -15,7 +16,7 @@ My name is Jason Sills. I have a deep experience in the private and public secto
 
 What else do you need?
 
-### My education
+## Education
 
 Master of Public Administration, Arizona State University
 MS Program Evaluation and Data Analytics, Arizona State University

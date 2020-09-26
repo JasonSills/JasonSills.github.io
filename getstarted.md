@@ -237,7 +237,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-01 h3 { 
      color: red;
-     font-size: 60px;
+     font-size: 200px;
      }
 
 .gs-section-01 p1 {

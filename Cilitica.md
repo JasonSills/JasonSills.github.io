@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ![]({{site.url}}/assets/img/Cilitica-Logo-v3.png)  
+title: Cilitica  
 subtitle: Helping organizations from idea to implementaiton to impact.
 ---
 
@@ -18,3 +18,5 @@ Cultural institutions
 Nonprofits
 Governments
 Social impact businesses
+
+![]({{site.url}}/assets/img/Cilitica-Logo-v3.png) 

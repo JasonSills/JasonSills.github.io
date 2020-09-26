@@ -61,7 +61,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 <div class="gs-section-01" markdown="1">
 
-<h3>### 1. Fork the Beautiful Jekyll repository </h3>
+<h1>### 1. Fork the Beautiful Jekyll repository </h1>
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
 by clicking the Fork button on the top right corner in GitHub.
@@ -69,9 +69,9 @@ by clicking the Fork button on the top right corner in GitHub.
 
 </div>
 
-### 2. Rename the project to `<yourusername>.github.io`
-
 <div class="gs-section-02" markdown="1">
+
+### 2. Rename the project to `<yourusername>.github.io`
 
 Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
 
@@ -231,14 +231,64 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
-
 <style>
 
-.gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
-     font-size: 50px;
+.gs-section-01 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: justify;
 }
 
+.gs-section-01 p {
+  line-height: 1.8;
+  padding-bottom: 80px;
+  }
+  
+.pretty-text h1 {
+  color: darkred;
+  font-size: 40px;
+}
+
+.pretty-text h2 {
+  color: darkred;
+  font-size: 30px;
+  margin-top: 60px;
+}
+
+.pretty-text h3 {
+  color: darkred;
+}
+
+.pretty-text a {
+  color: darkred;
+}
+  
+.pretty-text img {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pretty-text img:hover {
+  box-shadow: 0 0 3px 1px rgba(0, 140, 186, 0.5);
+}
+
+pre{
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  margin-bottom: 10px;
+  padding: 5px;
+  background-color: #eee;
+  width: 750px!ie7;
+  padding-bottom: 20px!ie7;
+}
+  
 </style>
+

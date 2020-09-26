@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Cilitica
+title: ![]({{site.url}}/assets/img/Cilitica-Logo-v3.png)  
 subtitle: Helping organizations from idea to implementaiton to impact.
 ---
 
-![]({{site.url}}/assets/img/Cilitica-Logo-v3.png)  
+
 
 ## Consulting
 Cilitica is here to help your organization achieve its goals. 

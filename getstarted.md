@@ -241,13 +241,13 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-01 p {
      font-size: 20px;
 }
-.gs-section-02 h3 { 
+.gs-section-02 h1 { 
      color: blue }
 
 .gs-section-02 p {
      font-size: 30px;
 }
-.gs-section-03 h3 { 
+.gs-section-03 h2 { 
      color: yellow }
 
 .gs-section-03 p {

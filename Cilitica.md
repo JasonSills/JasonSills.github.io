@@ -4,7 +4,7 @@ title: Cilitica
 subtitle: Helping organizations from idea to implementaiton to impact.
 ---
 
-"/assets/img/Cilitica-Logo-v3.png"
+![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
 
 ## Consulting
 Cilitica is here to help your organization achieve its goals. 

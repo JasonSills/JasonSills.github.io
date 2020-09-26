@@ -235,10 +235,10 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 
-.gs-section-01 h3 { 
-     color: red;
-     font-size: 200px;
-     }
+.gs-section-01 h3 {
+  color: darkred;
+  font-size: 40px;
+}
 
 .gs-section-01 p1 {
      font-size: 30px;
